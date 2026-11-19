@@ -1,0 +1,14 @@
+*.db
+.web
+assets/external/
+.states
+*.py[cod]
+__pycache__/
+*.pyc
+.venv/
+.streamlit/
+
+venv/
+*.zip
+.vscode/
+
